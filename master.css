@@ -1,0 +1,50 @@
+body {
+    background-color: #efeee7;
+    margin: 0;
+    padding: 0;
+    font-family: "georgia", "times new roman";
+    font-size: 18px;
+    line-height: 150%;
+}
+h1 {
+    background-color:black;
+    text-align: center;
+    color: #efeee7;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+.goLeft,
+.pic,
+.contactInfo {
+    float: left;
+}
+
+.goLeft {
+    width: 70%;
+}
+
+.contactInfo {
+    width: 30%;
+}
+
+a {
+    color: red;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.pic {
+    margin-right: 20px;
+    width: 200px;
+    height: 200px;
+}
